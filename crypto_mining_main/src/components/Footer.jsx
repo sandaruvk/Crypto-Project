@@ -108,7 +108,7 @@ const Footer = () => {
               </a>
               <a
                 rel="noopener noreferrer"
-                href="#"
+                href="https://twitter.com/SandaruVihanga1"
                 title="Twitter"
                 className="flex items-center justify-center w-10 h-10 rounded-full bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 shadow-lg shadow-purple-500/50 dark:shadow-lg dark:shadow-purple-800/80 dark:text-black"
               >
@@ -123,7 +123,7 @@ const Footer = () => {
               </a>
               <a
                 rel="noopener noreferrer"
-                href="#"
+                href="https://github.com/sandaruvk"
                 title="GitHub"
                 className="flex items-center justify-center w-10 h-10 rounded-full bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 shadow-lg shadow-purple-500/50 dark:shadow-lg dark:shadow-purple-800/80 dark:text-black"
               >

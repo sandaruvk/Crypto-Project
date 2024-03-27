@@ -15,7 +15,7 @@ const Packages = () => {
           <div className="mb-16 space-y-4 text-center">
             <h1 className="text-4xl font-semibold leading-tight">Pricing</h1>
             <p className="px-4 sm:px-8 lg:px-24">
-              Here are our Pricing Plans, choose your offers
+              Choose what plan suits you.
             </p>
             <div>
               <button
